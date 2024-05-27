@@ -1,8 +1,8 @@
 ---
-title: stuff
+title: Notes
 date: "2022-03-27T22:12:03.284Z"
-description: "stuff"
-navTitle: stuff
+description: "random notes"
+navTitle: Notes
 tags: posts
 ---
 

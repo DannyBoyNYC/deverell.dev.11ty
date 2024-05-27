@@ -1,8 +1,8 @@
 ---
-title: Audio Equipment
+title: Audiophilia
 date: "2020-02-01T22:12:03.284Z"
-description: "A list of all the audio junk I've acquired over the years."
-navTitle: Audio
+description: "Notes on audio."
+navTitle: Audiophilia
 tags: posts
 ---
 

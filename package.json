@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "rimraf": "rimraf _site",
-    "11ty": "eleventy --serve",
+    "serve": "eleventy --serve",
     "sass": "sass src/scss/styles.scss src/css/styles.css --watch",
     "start": "npm-run-all -p rimraf 11ty sass"
   },
