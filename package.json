@@ -7,17 +7,15 @@
     "rimraf": "rimraf _site",
     "serve": "eleventy --serve",
     "sass": "sass src/scss/styles.scss src/css/styles.css --watch",
-    "start": "npm-run-all -p rimraf 11ty sass"
+    "start": "npm-run-all -p rimraf serve sass"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@11ty/eleventy": "^2.0.1"
-  },
   "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
     "npm-run-all": "^4.1.5",
-    "rimraf": "^2.7.1",
-    "sass": "^1.43.2"
+    "rimraf": "^5.0.7",
+    "sass": "^1.77.2"
   }
 }

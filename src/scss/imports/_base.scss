@@ -16,9 +16,21 @@ body {
   font-size: 120%;
   color: var(--light);
   line-height: 1.4;
-  max-width: 980px;
-  margin: 0 auto;
   background: var(--bg-blue);
+  margin: 0;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 980px;
+  .content {
+    margin-top: 0rem;
+    padding: 0rem;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    // border-left: 2px solid #007eb66e;
+    // border-radius: 4px;
+  }
 }
 
 img {
@@ -27,26 +39,25 @@ img {
 
 a {
   text-decoration: none;
-  color: #007eb6;
+}
+
+nav {
+  background-color: #eab631;
 }
 
 nav ul {
-  padding: 0;
+  margin: 0;
+  padding: 8px 0;
   list-style: none;
   display: flex;
+  margin: 0 auto;
+  max-width: 980px;
 }
 
 nav ul a {
   padding: 0.5rem 1rem;
-}
-
-.content {
-  margin-top: 0rem;
-  padding: 0rem;
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  // border-left: 2px solid #007eb66e;
-  // border-radius: 4px;
+  text-decoration: none;
+  text-shadow: 0 0 3px #00000066;
 }
 
 .nav-item-active a {
@@ -71,7 +82,6 @@ nav ul a {
 .bio img {
   z-index: 100;
   filter: drop-shadow(rgba(0, 0, 0, 0.5) 0px 0px 5px);
-
   border-radius: 50%;
   width: 300px;
   height: 300px;
@@ -92,7 +102,6 @@ nav ul a {
 a {
   color: $link;
   opacity: 0.85;
-  text-decoration: none;
   text-decoration: underline;
 }
 a:hover {
