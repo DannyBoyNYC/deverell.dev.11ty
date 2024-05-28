@@ -8,7 +8,13 @@ tags: posts
 
 # Audio
 
-{{description}}
+## John Darko's 19th Century Verbiage
+
+"However, not until the show did we learn that the 3.5″ touchscreen – despite showing cover art, album metadata and playback controls – talks not to an Android OS but Linux."
+
+"Talks not..." spoken like a someone who's recently finished a Lincoln biography.
+
+[Read more](https://darko.audio/2024/05/more-thoughts-on-the-329-wiim-ultra/)
 
 ## Bedroom
 
