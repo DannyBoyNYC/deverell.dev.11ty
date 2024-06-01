@@ -52,7 +52,7 @@ nav ul {
 nav ul a {
   padding: 0.5rem 1rem;
   text-decoration: none;
-  text-shadow: 0 0 3px rgba(0, 0, 0, 0.4);
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.6);
 }
 
 .nav-item-active a {

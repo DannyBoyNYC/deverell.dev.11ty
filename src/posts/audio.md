@@ -16,6 +16,31 @@ tags: posts
 
 [Read more](https://darko.audio/2024/05/more-thoughts-on-the-329-wiim-ultra/)
 
+When I hear audiophiles refer to "the hobby" I think of swingers calling it "The lifestyle" - a shared secret, a touch of guilt.
+
+## 2024
+
+### Dining Room
+
+- NAD M10 V2 - [NAD M10 V2 BluOS Streaming Amplifier Review | Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/nad-m10-v2-bluos-streaming-amplifier-review.25368/)
+<!-- - - $1900 -->
+- Home made speakers with ScanSpeak drivers [Madisound](https://www.madisoundspeakerstore.com/2-way-speaker-kits/scan-speak-rediscovery-ii-kit/)
+
+### Bedroom
+
+- WiiM Ultra - [WiiM Ultra Review | Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/wiim-ultra-review.25367/)
+<!-- - - $329 -->
+- Fosi Audio mono block amps - [Fosi Audio BT20A Bluetooth Amplifier Review | Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-bt20a-bluetooth-amplifier-review.25366/)
+<!-- - - $200 -->
+- Music Hall MMF 5.1 turntable
+- SVS 3000 mini subwoofer
+<!-- - - $600 -->
+- [Dali Oberon 1 loudspeakers](https://www.dali-speakers.com/en-us/products/oberon/oberon-1/)
+
+================
+
+## Pre 2024
+
 ## Bedroom
 
 - Yamaha A-S701 amp
