@@ -8,7 +8,7 @@ tags: posts
 
 # Audio
 
-## John Darko's 19th Century Verbiage
+<!-- ## John Darko's 19th Century Verbiage
 
 "However, not until the show did we learn that the 3.5″ touchscreen – despite showing cover art, album metadata and playback controls – talks not to an Android OS but Linux."
 
@@ -16,7 +16,7 @@ tags: posts
 
 [Read more](https://darko.audio/2024/05/more-thoughts-on-the-329-wiim-ultra/)
 
-When I hear audiophiles refer to "the hobby" I think of swingers calling it "The lifestyle" - a shared secret, a touch of guilt.
+When I hear audiophiles refer to "the hobby" I think of swingers calling it "The lifestyle" - a shared secret, a touch of guilt. -->
 
 ## 2024
 
@@ -28,14 +28,18 @@ When I hear audiophiles refer to "the hobby" I think of swingers calling it "The
 
 ### Bedroom
 
-- WiiM Ultra - [WiiM Ultra Review | Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/wiim-ultra-review.25367/)
 <!-- - - $329 -->
+
+- WiiM Ultra - [WiiM Ultra Review | Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/wiim-ultra-review.25367/)
+- <!-- - - $200 -->
 - Fosi Audio mono block amps - [Fosi Audio BT20A Bluetooth Amplifier Review | Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-bt20a-bluetooth-amplifier-review.25366/)
-<!-- - - $200 -->
 - Music Hall MMF 5.1 turntable
 - SVS 3000 mini subwoofer
 <!-- - - $600 -->
 - [Dali Oberon 1 loudspeakers](https://www.dali-speakers.com/en-us/products/oberon/oberon-1/)
+
+![bedroom audio system](/img/audio/bedroom-1.jpg)
+![bedroom audio system](/img/audio/bedroom-2.jpg)
 
 ================
 
