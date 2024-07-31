@@ -4,6 +4,7 @@ date: "2022-03-27T22:12:03.284Z"
 description: "Tracking analytics experiments."
 navTitle: Analytics
 tags: posts
+pageClass: analytics
 ---
 
 # Analytics

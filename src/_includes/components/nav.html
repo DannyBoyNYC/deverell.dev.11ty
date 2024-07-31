@@ -1,8 +1,8 @@
 <nav aria-label="Primary">
   <ul>
-    <li><a href="/">Home</a></li>
+    <li class="home"><a href="/">Home</a></li>
     {% for post in collections.posts %}
-    <li>
+    <li class="{{post.data.pageClass}}">
       <a href="{{ post.url }}"> {{ post.data.navTitle }} </a>
     </li>
     {% endfor %}

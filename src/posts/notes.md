@@ -4,6 +4,7 @@ date: "2022-03-27T22:12:03.284Z"
 description: "random notes"
 navTitle: Notes
 tags: posts
+pageClass: notes
 ---
 
 ![stuff](https://lede-admin.defector.com/wp-content/uploads/sites/28/2024/05/GettyImages-2152548260.jpg?w=2048)

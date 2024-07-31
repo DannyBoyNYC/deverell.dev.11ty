@@ -4,6 +4,7 @@ date: "2022-03-27T22:12:03.284Z"
 description: "Postgres notes."
 navTitle: Postgres
 tags: posts
+pageClass: postgres
 ---
 
 # Postgres

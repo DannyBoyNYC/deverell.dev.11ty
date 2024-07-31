@@ -1,0 +1,38 @@
+nav {
+  background-color: var(--dark-orange);
+}
+
+nav ul {
+  margin: 0;
+  padding: 8px 0;
+  list-style: none;
+  display: flex;
+  margin: 0 auto;
+  max-width: 980px;
+}
+
+nav ul a {
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  //   text-shadow: 0 0 3px #ffffff;
+  color: var(--dark);
+}
+
+nav ul a:hover {
+  text-decoration: none;
+}
+
+// .nav-item-active a {
+//   color: #fff;
+//   background-color: #007eb6;
+//   border-radius: 4px;
+// }
+
+.home .home a,
+.audio .audio a,
+.notes .notes a,
+.analytics .analytics a,
+.postgres .postgres a {
+  color: white;
+  font-weight: bold;
+}
