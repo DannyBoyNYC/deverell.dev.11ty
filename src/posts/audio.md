@@ -9,20 +9,22 @@ pageClass: audio
 
 # Audio
 
-<blockquote>When I hear audiophiles refer to "the hobby" I think of swingers using the term "the lifestyle" - a shared secret, a touch of guilt.</blockquote>
+<blockquote>When I hear audiophiles refer to “the hobby” I think of swingers using the term “the lifestyle” - a shared secret, a touch of guilt.</blockquote>
 
 ## Dining Room
 
-- NAD M10 V2 BluOS Streaming Amplifier <br /> [Review | Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/nad-m10-v2-bluos-streaming-amplifier-review.25368/) <!-- - - $1900 -->
+- NAD M10 V2 BluOS streaming amplifier <br /> [Review | Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/nad-m10-v2-bluos-streaming-amplifier-review.25368/) <!-- - - $1900 -->
 - Home made speakers with ScanSpeak drivers <br /> [Madisound](https://www.madisoundspeakerstore.com/2-way-speaker-kits/scan-speak-rediscovery-ii-kit/)
 
 ## Bedroom
 
-- WiiM Ultra <br /> [Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/wiim-ultra-review.25367/)<!-- - - $200 -->
+- WiiM Ultra streamer/dac <br /> [Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/wiim-ultra-review.25367/)<!-- - - $200 -->
 - Fosi Audio V3 Mono Amplifiers <br /> [Review | Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-v3-mono-amplifier-review.53474/) <!-- $330 -->
 - Music Hall MMF 5.1 turntable
 - SVS 3000 mini subwoofer <!-- - - $600 -->
-- [Dali Oberon 1 loudspeakers](https://www.dali-speakers.com/en-us/products/oberon/oberon-1/) <!-- 450 -->
+- [Ascilabs](https://ascilab.com) C6B loudspeakers <br /> [Review](https://erinsaudiocorner.com/loudspeakers/ascilab_c6b/)
+  <!-- $1200 -->
+  <!--- [Dali Oberon 1 loudspeakers](https://www.dali-speakers.com/en-us/products/oberon/oberon-1/) $450 -->
 
 ![bedroom audio system](/img/audio/bedroom-2.jpg)
 
@@ -30,7 +32,10 @@ pageClass: audio
 
 ## Living Room
 
-- NAD C388 Integrated Amplifier <!-- $750.00 -->
+<!-- - NAD C388 Integrated Amplifier  -->
+<!-- $750.00 -->
+
+- WiiM Amp Pro
 - Linton 85th Anniversary speakers
 - Thorens TD125 Long Base turntable - Special order from Vinyl Nirvana - \$5000
 - Ortofon tone arm
