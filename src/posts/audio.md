@@ -22,18 +22,13 @@ pageClass: audio
 - Fosi Audio V3 Mono Amplifiers <br /> [Review | Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-v3-mono-amplifier-review.53474/) <!-- $330 -->
 - Music Hall MMF 5.1 turntable
 - SVS 3000 mini subwoofer <!-- - - $600 -->
-- [Ascilabs](https://ascilab.com) C6B loudspeakers <br /> [Review](https://erinsaudiocorner.com/loudspeakers/ascilab_c6b/)
-  <!-- $1200 -->
-  <!--- [Dali Oberon 1 loudspeakers](https://www.dali-speakers.com/en-us/products/oberon/oberon-1/) $450 -->
+- [Ascilabs](https://ascilab.com) C6B loudspeakers <br /> [Review](https://erinsaudiocorner.com/loudspeakers/ascilab_c6b/)<!-- $1200 -->
 
 ![bedroom audio system](/img/audio/bedroom-2.jpg)
 
 <!-- ![bedroom audio system](/img/audio/bedroom-1.jpg) -->
 
 ## Living Room
-
-<!-- - NAD C388 Integrated Amplifier  -->
-<!-- $750.00 -->
 
 - WiiM Amp Pro
 - Linton 85th Anniversary speakers
@@ -42,6 +37,12 @@ pageClass: audio
 - SPU #1 cartridge - \$ see above - retipped by Sound Smith
 - Grado - wood cartridge - \$300
 - Ortofon ST-7 - step up transformer - \$300
+
+## Vacation House
+
+- NAD C388 Integrated Amplifier <!-- $750.00 -->
+- WiiM Mini
+- [Dali Oberon 1 loudspeakers](https://www.dali-speakers.com/en-us/products/oberon/oberon-1/) <!-- $450 -->
 
 ================
 
